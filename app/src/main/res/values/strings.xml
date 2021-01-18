@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="headline">Headline</string>
+    <string name="author">Author</string>
+    <string name="click_here">Click Here</string>
+    <string name="summary">summary</string>
+</resources>
